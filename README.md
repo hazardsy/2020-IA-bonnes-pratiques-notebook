@@ -1,7 +1,10 @@
 # 2020-IA-bonnes-pratiques-notebook
 
+Base code from [janakiev](https://janakiev.com/blog/keras-iris/).
+
 TODO :
+- 0
+  - Unpythonize
 - 1
-  - Graphiques avec Seaborn
-  - Exemples en rab' avec Pandas & Bokeh
-  - 
+  - Exemples en rab' avec Bokeh
+  -
