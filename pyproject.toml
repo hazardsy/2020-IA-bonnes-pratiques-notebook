@@ -15,6 +15,8 @@ tensorflow = "^2.3.1"
 jupyter_contrib_nbextensions = "^0.5.1"
 isort = "^5.5.4"
 seaborn = "^0.11.0"
+jupyterlab = "^2.2.8"
+bokeh = "^2.2.1"
 
 [tool.poetry.dev-dependencies]
 
