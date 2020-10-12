@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "2020-ia-bonnes-pratiques-notebook"
+name = "iris-classification"
 version = "0.1.0"
-description = ""
+description = "A simple flower classification project."
 authors = ["Sylvain Hazard <sylvain.hazard@wiidii.com>"]
 
 [tool.poetry.dependencies]
@@ -17,7 +17,6 @@ isort = "^5.5.4"
 seaborn = "^0.11.0"
 jupyterlab = "^2.2.8"
 bokeh = "^2.2.1"
-pipenv = "^2020.8.13"
 
 [tool.poetry.dev-dependencies]
 
