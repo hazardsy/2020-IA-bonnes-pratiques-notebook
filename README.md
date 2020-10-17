@@ -15,10 +15,12 @@ The overall final project architecture is a free interpretation of the [Cookie C
 Extra interesting documentation on this matter : 
  - [Joel Grus - I don't like notebooks](https://www.youtube.com/watch?v=7jiPeIFXb6U)
  - [Dan Bader - Python Tricks](https://realpython.com/products/python-tricks-book/)
+ - [Papermill](https://papermill.readthedocs.io/en/latest/)
  - [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
  - [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
  - [Working with Jupyter Notebooks in VSCode](https://code.visualstudio.com/docs/python/jupyter-support)
  - [TQDM](https://github.com/tqdm/tqdm)
+ - [NbDime](https://nbdime.readthedocs.io/en/latest/)
  - [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/ftp/arxiv/papers/1810/1810.08055.pdf)
  - [Jupyter Notebook Best Practices](https://towardsdatascience.com/jupyter-notebook-best-practices-f430a6ba8c69)
  - [Working efficiently with JupyterLab Notebooks](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/)
