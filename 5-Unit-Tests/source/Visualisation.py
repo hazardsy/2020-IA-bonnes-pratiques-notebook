@@ -36,7 +36,7 @@ def _get_scatter_plot(
     Y: np.array,
     class_names: List[str],
     feature_names: List[str],
-    feature_columns: Tuple[int, int],
+    feature_columns: Tuple[int,int],
 ):
     """Make a scatter plot for the given data
 
