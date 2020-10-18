@@ -5,10 +5,11 @@ The goal is to show how we can improve a very simple, notebook-based, project in
 Steps go as follows :
  - 0 : Initial project. Base code from [janakiev](https://janakiev.com/blog/keras-iris/) made a lot worse on purpose.
  - 1 : Improve the notebook itself : Add markdown, better and more pythonic code, etc.
- - 2 : Add some extra files : README.md and requirements.txt.
+ - 2 : Add some extra files : README.md and requirements.txt and use an isolated environment.
  - 3 : Separate notebooks as a DAG.
  - 4 : Externalise some of the code for better readability.
  - 5 : Unit test most of the externalised code.
+ - 6 : Using Papermill for parametrized execution.
 
 The overall final project architecture is a free interpretation of the [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) project.
 
@@ -27,3 +28,4 @@ Extra interesting documentation on this matter :
  - [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
  - [Jupyter Notebook Manifesto: Best practices that can improve the life of any developer using Jupyter notebooks](https://cloud.google.com/blog/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks)
  - [Jupyter Lab: Evolution of the Jupyter Notebook](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
+ - [PEP8](https://www.python.org/dev/peps/pep-0008/)
